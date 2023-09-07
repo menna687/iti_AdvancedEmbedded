@@ -1,2 +1,4 @@
 # iti_AdvancedEmbedded
-STM drivers and projects 
+* STM32 main drivers
+* Drivers unit testing
+* Practicing projects
